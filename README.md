@@ -1,7 +1,7 @@
 Teensy MultiFX
 
 A simple hardware platform for Gutiar based FX. Mostly mod and delay - no distortion. Audio board has no Hi-Z input, so this is meant to be used after
-your main distortion pedal (ToneX-One is what I use) which will buffer the input to low-z and make it usable on the Audio board.
+your main distortion pedal (ToneX-One is what I use) which will buffer the input to low-z and make it usable on the Audio board. You may be able to use active pickups directly into the Audio board without a pedal to buffer - untested.
 
 Libs Used:
 
