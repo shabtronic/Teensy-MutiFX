@@ -16,6 +16,7 @@ Current Status:
 
 - SD card - working and reading.
 - Screen Working, spi running at 70mhz = around 50fps full screen updates
+- Screen Cap Touch working
 - LVGL rendering
 - One FX running
 - Pots working
@@ -30,8 +31,8 @@ Code is un-optimized, but Teensy 4.1 is a beast, Reverse-o-tron uses 90 delay ta
 FX Planned:
 
 - FFT Reverb - from my github
-- Riseer Reverb - from my github
-- Pitch Shifter/Haromonize with per note mapping and FX routing.
+- Riser Reverb - from my github
+- Pitch Shifter/Harmonizer with per note mapping and FX routing.
 - Loop Recorder/Multitracker
 - Full Midiverb/Midiflex implementation from: https://github.com/thement/midiverb_emulator
 
