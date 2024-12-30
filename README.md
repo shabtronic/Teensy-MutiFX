@@ -19,7 +19,7 @@ Current Status:
 - Screen Cap Touch working
 - LVGL rendering
 - One FX running and usable (Reverse-O-Tron)
-- Pots working
+- Pots working - Volumes and parameters
 - Encoder Working - slides to separate FX screens
 - USB Audio in and out working (usb buffer is 512 samples, USB input in reaper causes major stuttering for some reason!)
 - Line in/out working
