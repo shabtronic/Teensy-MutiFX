@@ -1,6 +1,7 @@
 Teensy MultiFX
 
-A simple hardware platform for Gutiar based FX. Mostly mod and delay - no distortion.
+A simple hardware platform for Gutiar based FX. Mostly mod and delay - no distortion. Audio board has no Hi-Z input, so this is meant to be used after
+your main distortion pedal (ToneX-One is what I use).
 
 Libs Used:
 
