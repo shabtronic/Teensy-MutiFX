@@ -30,7 +30,7 @@ Current Status:
 Code style is wildcat frenzy - so a complete mess :) - early days until everything falls into place and refactoring to a neat and tidy system.
 Code is un-optimized, but Teensy 4.1 is a beastly MCU!, even at 600mhz Reverse-O-Tron uses 90 delay taps and 18 Allpass filters - takes around 17% APU - completely unoptimized.
 
-FX Planned:
+FX/Features Planned:
 
 - FFT Reverb - from my github
 - Riser Reverb - from my github
@@ -40,10 +40,12 @@ FX Planned:
 - Chug-O-Tron - Rhythmic delay with ducking/gating for folk too lazy to learn Messuggah style patterns
 - Chorus/Flanger/Phaser
 - Tremelo
+- Presets
+- Footswitch Control
     
 Far off in the future may never happen ideas:
 
-- Parallel FX routing
+- Flexible Parallel FX routing
 - Buzz/Kyma Capabyra style graph editing
   
 Current Parts are:
