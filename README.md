@@ -15,7 +15,7 @@ Libs Planned:
 Current Status:
 
 - SD card - working and reading.
-- Screen Working
+- Screen Working, spi running at 70mhz = around 50fps full screen updates
 - LVGL rendering
 - One FX running
 - Pots working
