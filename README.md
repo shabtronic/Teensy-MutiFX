@@ -58,6 +58,8 @@ Current Parts are:
 - 128gb SDCard
 - 2 Stereo 3.5mm sockets
 - 1 PCB board
-  
-### Current Hardware Build
+
+# Video of hardware running
+
+# Current Hardware Build
 ![](./Images/MultiFX1.jpg)
