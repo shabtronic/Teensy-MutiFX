@@ -42,7 +42,7 @@ FX Planned:
 Far off in the future may never happen ideas:
 
 - Parallel FX routing
-- Buzz/Kyma style graph editing
+- Buzz/Kyma Capabyra style graph editing
   
 Current Parts are:
 
