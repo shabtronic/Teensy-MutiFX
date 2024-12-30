@@ -18,7 +18,7 @@ Current Status:
 - Screen Working, spi running at 70mhz = around 50fps full screen updates
 - Screen Cap Touch working
 - LVGL rendering
-- One FX running
+- One FX running and usable (Reverse-O-Tron)
 - Pots working
 - Encoder Working
 - USB Audio in and out working (usb buffer is 512 samples, USB input in reaper causes major stuttering for some reason!)
