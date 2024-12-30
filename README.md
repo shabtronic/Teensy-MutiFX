@@ -59,5 +59,5 @@ Current Parts are:
 - 2 Stereo 3.5mm sockets
 - 1 PCB board
   
-## Current Hardware Build
+### Current Hardware Build
 ![](./Images/MultiFX1.jpg)
