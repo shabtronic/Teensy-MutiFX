@@ -42,7 +42,7 @@ FX/Features Planned:
 - Tremelo
 - Presets
 - Footswitch Control
-- Selectable procesing USB/Line In - currently only Line In
+- Selectable processing USB/Line In - currently only Line In
 - Simple Streaming Sampler and Sequencer
     
 Far off in the future may never happen blue sky optimism ideas:
