@@ -5,7 +5,7 @@ your main distortion pedal (ToneX-One is what I use).
 
 Libs Used:
 
-- LVGL 9.22, Teensydunio
+- LVGL 9.22, Teensyduino
 
 Libs Planned:
 
