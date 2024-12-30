@@ -21,7 +21,7 @@ Current Status:
 - One FX running
 - Pots working
 - Encoder Working
-- USB Audio in and out working (USB input in reaper causes major stuttering for some reason!)
+- USB Audio in and out working (usb buffer is 512 samples, USB input in reaper causes major stuttering for some reason!)
 - Line in/out working
 - Headphone out and control working
 - VU Meters - usb in,line in and audio out working
