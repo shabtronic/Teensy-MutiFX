@@ -46,7 +46,7 @@ FX/Features Planned:
 Far off in the future may never happen blue sky optimism ideas:
 
 - Flexible Parallel FX routing
-- Buzz/Kyma Capabyra style graph editing
+- Jeskola Buzz/Kyma Capabyra style graph editing
   
 Current Parts are:
 
