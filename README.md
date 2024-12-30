@@ -5,11 +5,12 @@ A simple hardware platform for Gutiar based FX. Mostly mod and delay - no distor
 Libs Used:
 
 - LVGL 9.22, Teensydunio
-- 
+
 Libs Planned:
 
 - DRWav,DRFlac,DRMp3 (for media playback)
-
+- Teensy T4 screen lib
+- 
 Current Status:
 
 - SD card - working and reading.
@@ -20,6 +21,9 @@ Current Status:
 - Encoder Working
 - USB Audio in and out working
 
+Code style is wildcat frenzy - so a complete mess :) - early days until everything falls into place and refactoring to a neat and tidy system.
+Code is un-optimized
+
 Current Parts are:
 
 - Teensy 4.1
@@ -28,5 +32,7 @@ Current Parts are:
 - 1 ALPS rotary encoder
 - Hosyond 3.2 inch 240x320 IPS Capacitive Touch Screen LCD Module SPI Serial ILI9341V 
 - 128gb SDCard
-
+- 2 Stereo 3.5mm sockets
+- 1 PCB board
+  
 ![](./Images/MultiFX1.jpg)
