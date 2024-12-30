@@ -42,7 +42,7 @@ FX Planned:
 Current Parts are:
 
 - Teensy 4.1
-- Teensy Audio Board rev D
+- Teensy Audio Sheild rev D for 4.0
 - 11 x 10k pots
 - 1 ALPS rotary encoder
 - Hosyond 3.2 inch 240x320 IPS Capacitive Touch Screen LCD Module SPI Serial ILI9341V 
