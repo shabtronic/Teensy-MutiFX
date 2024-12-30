@@ -31,6 +31,7 @@ FX Planned:
 - Riseer Reverb - from my github
 - Pitch Shifter/Haromonize with per note mapping and FX routing.
 - Loop Recorder/Multitracker
+- Full Midiverb/Midiflex implementation from: https://github.com/thement/midiverb_emulator
 
 Current Parts are:
 
