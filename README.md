@@ -11,7 +11,7 @@ Libs Planned:
 
 - DRWav,DRFlac,DRMp3 (for media playback)
 - Teensy T4 screen lib
-- 
+  
 Current Status:
 
 - SD card - working and reading.
@@ -20,7 +20,7 @@ Current Status:
 - One FX running
 - Pots working
 - Encoder Working
-- USB Audio in and out working
+- USB Audio in and out working (USB input in reaper causes major stuttering for some reason!)
 
 Code style is wildcat frenzy - so a complete mess :) - early days until everything falls into place and refactoring to a neat and tidy system.
 Code is un-optimized, but Teensy 4.1 is a beast, Reverse-o-tron uses 90 delay taps and 18 Allpass filters - takes around 17% APU - completely unoptimized.
