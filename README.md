@@ -43,7 +43,7 @@ FX/Features Planned:
 - Presets
 - Footswitch Control
     
-Far off in the future may never happen ideas:
+Far off in the future may never happen blue sky optimism ideas:
 
 - Flexible Parallel FX routing
 - Buzz/Kyma Capabyra style graph editing
