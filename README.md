@@ -39,6 +39,11 @@ FX Planned:
 - Full Midiverb/Midiflex implementation from: https://github.com/thement/midiverb_emulator
 - Chug-O-Tron - Rhythmic delay with duckin for folk too lazy to learn Messuggah style patterns
 
+Far off in the future may never happen ideas:
+
+- Parallel FX routing
+- Buzz/Kyma style graph editing
+  
 Current Parts are:
 
 - Teensy 4.1
