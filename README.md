@@ -23,7 +23,14 @@ Current Status:
 - USB Audio in and out working
 
 Code style is wildcat frenzy - so a complete mess :) - early days until everything falls into place and refactoring to a neat and tidy system.
-Code is un-optimized
+Code is un-optimized, but Teensy 4.1 is a beast, Reverse-o-tron uses 90 delay taps and 18 Allpass filters - takes around 17% APU - completely unoptimized.
+
+FX Planned:
+
+- FFT Reverb - from my github
+- Riseer Reverb - from my github
+- Pitch Shifter/Haromonize with per note mapping and FX routing.
+- Loop Recorder/Multitracker
 
 Current Parts are:
 
