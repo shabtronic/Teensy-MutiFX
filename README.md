@@ -20,7 +20,7 @@ Current Status:
 - LVGL rendering
 - One FX running and usable (Reverse-O-Tron)
 - Pots working - Volumes and parameters
-- Encoder Working - slides to separate FX screens
+- Encoder Working - Lvgl TileView slides to separate FX screens
 - USB Audio in and out working (usb buffer is 512 samples, USB input in reaper causes major stuttering for some reason!)
 - Line in/out working
 - Headphone out and control working
