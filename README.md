@@ -9,7 +9,7 @@ Libs Used:
 
 Libs Planned:
 
-- DRWav,DRFlac,DRMp3 (for media playback)
+- DRWav, DRFlac, DRMp3 (for media playback)
 - Teensy T4 screen lib, for speed and DMA freeing up CPU.
   
 Current Status:
