@@ -52,14 +52,21 @@ Far off in the future may never happen blue sky optimism ideas:
   
 Current Parts are:
 
-- Teensy 4.1
-- Teensy Audio Sheild rev D for 4.0
-- 11 x 10k pots
-- 1 ALPS rotary encoder
-- Hosyond 3.2 inch 240x320 IPS Capacitive Touch Screen LCD Module SPI Serial ILI9341V 
-- 128gb SDCard
-- 2 Stereo 3.5mm sockets
-- 1 PCB board
+- Teensy 4.1 £34
+- Teensy Audio Shield rev D for 4.0 £18
+- 11 x 10k pots £12
+- 1 ALPS rotary encoder £10
+- Hosyond 3.2 inch 240x320 IPS Capacitive Touch Screen LCD Module SPI Serial ILI9341V £18
+- 128gb SDCard £10
+- 2 Stereo 3.5mm sockets £5
+- 1 PCB board £5
+- 2x10k resistors (for encoder) £???
+- 
+Total Parts cost in 2024: £112
+
+# CNC Aluminium case
+
+Cost £20
 
 # Video of hardware running
 
