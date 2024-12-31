@@ -22,6 +22,7 @@ Current Status:
 - Pots working - Volumes and parameters
 - Encoder Working - Lvgl TileView slides to separate FX screens
 - USB Audio in and out working (usb buffer is 512 samples, USB input in reaper causes major stuttering for some reason!)
+    So this can be used as a full blown usb audio interface - with no OS drivers needed.
 - Line in/out working
 - Headphone out and control working
 - VU Meters - usb in,line in and audio out working
