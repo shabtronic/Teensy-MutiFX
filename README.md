@@ -39,7 +39,7 @@ FX/Features Planned:
 - Full Midiverb/Midiflex implementation from: https://github.com/thement/midiverb_emulator
 - Chug-O-Tron - Rhythmic delay with ducking/gating for folk too lazy to learn Meshuggah style patterns
 - Chorus/Flanger/Phaser
-- Tremelo
+- Tremolo
 - Presets
 - Footswitch Control
 - Selectable processing USB/Line In - currently only Line In
