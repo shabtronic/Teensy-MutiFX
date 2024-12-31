@@ -57,7 +57,7 @@ Current Parts are:
 - 11 x 10k pots £12
 - 1 ALPS rotary encoder £10
 - Hosyond 3.2 inch 240x320 IPS Capacitive Touch Screen LCD Module SPI Serial ILI9341V £18
-- 128gb SDCard £10
+- 128gb micro SDCard £10
 - 2 Stereo 3.5mm sockets £5
 - 1 PCB board £5
 - 2x10k resistors (for encoder) £???
