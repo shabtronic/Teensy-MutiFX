@@ -61,7 +61,7 @@ Current Parts are:
 - 2 Stereo 3.5mm sockets £5
 - 1 PCB board £5
 - 2x10k resistors (for encoder) £???
-- 
+
 Total Parts cost in 2024: £112
 
 # CNC Aluminium case
