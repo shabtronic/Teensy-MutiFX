@@ -62,7 +62,7 @@ Current Parts are:
 - 1 PCB board £5
 - 2x10k resistors (for encoder) £???
 
-Total Parts cost in 2024: £112
+Total Parts cost circa 2024: £112
 
 # CNC Aluminium case
 
