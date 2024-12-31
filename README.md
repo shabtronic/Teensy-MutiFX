@@ -38,7 +38,7 @@ FX/Features Planned:
 - Pitch Shifter/Harmonizer with per note mapping and FX routing.
 - Loop Recorder/Multitracker
 - Full Midiverb/Midiflex implementation from: https://github.com/thement/midiverb_emulator
-- Chug-O-Tron - Rhythmic delay with ducking/gating for folk too lazy to learn Meshuggah style patterns
+- Chug-O-Tron - Sequenced rhythmic delay with ducking/gating for folk too lazy to learn Meshuggah style patterns
 - Chorus/Flanger/Phaser
 - Tremolo
 - Presets
