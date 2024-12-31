@@ -100,3 +100,5 @@ LCD CS is tied to GND
 
 34 ENC 1
 33 ENC 2
+
+Encoder pins are tied to VCC with resistors as per: https://forum.pjrc.com/index.php?threads/using-5v-rotary-encoders-with-teensy-4-1.72834/
