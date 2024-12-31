@@ -73,3 +73,30 @@ Cost £20
 
 # Current Hardware Build
 ![](./Images/MultiFX1.jpg)
+
+connections:
+
+LCD RST is tied to VCC with resistor
+LCD CS is tied to GND
+
+13 LCD SCK
+10 LCD DS/RS
+11 LCD MOSI
+
+18 LCD CPT SDA
+19 LCD CPT SCL
+
+14 POT1
+15 POT2
+16 POT3
+24 POT4
+25 POT5
+26 POT6
+27 POT6
+41 POT8
+40 POT9
+39 POT10
+38 POT11
+
+34 ENC 1
+33 ENC 2
