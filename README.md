@@ -35,7 +35,8 @@ FX/Features Planned:
 
 - FFT Reverb - from my github
 - Riser Reverb - from my github
-- Pitch Shifter/Harmonizer with per note mapping and FX routing.
+- Mono Pitch Shifter/Harmonizer with per note mapping and FX routing.
+- Pply RB Pitchshifter
 - Loop Recorder/Multitracker
 - Full Midiverb/Midiflex implementation from: https://github.com/thement/midiverb_emulator
 - Chug-O-Tron - Sequenced rhythmic delay with ducking/gating for folk too lazy to learn Meshuggah style patterns
