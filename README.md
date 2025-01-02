@@ -16,6 +16,7 @@ Current Status:
 
 - SD card - working and reading.
 - Screen Working, spi running at 110mhz = around 79fps full screen updates (110,000,000)/(320x240x18) (9spi bits per byte)
+  I think that's the max the LCD ILI9341V can handle
 - Screen Cap Touch working
 - LVGL rendering
 - One FX running and usable (Reverse-O-Tron)
