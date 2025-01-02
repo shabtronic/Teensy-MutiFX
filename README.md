@@ -30,7 +30,7 @@ Current Status:
   
 Code style is "wildcat frenzy" - so it's currently a complete mess :) - early days until everything falls into place and refactoring to a neat and tidy system. 
 
-So this is currently **pre-alpha** - lets get the hardware connected and working stage.
+So this is currently **Pre-Alpha** - lets get the hardware connected and working stage.
 
 Code is un-optimized, but Teensy 4.1 is a beastly MCU!, even at the default 600mhz Reverse-O-Tron at max uses 90 delay taps and 18 Allpass filters - and takes around 17% APU - completely unoptimized.
 
