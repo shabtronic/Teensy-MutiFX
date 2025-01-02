@@ -38,7 +38,7 @@ FX/Features Planned:
 
 - FFT Reverb - from my github
 - Riser Reverb - from my github
-- Mono Pitch Shifter/Harmonizer with per note mapping and FX routing.
+- LPC monophonic Pitch Shifter/Harmonizer with per note mapping and FX routing.
 - Poly RB Pitchshifter
 - Loop Recorder/Multitracker
 - Full Midiverb/Midiflex implementation from: https://github.com/thement/midiverb_emulator
@@ -54,7 +54,7 @@ Far off in the future may never happen blue sky optimism ideas:
 
 - Flexible Parallel FX routing
 - Jeskola Buzz/Kyma Capabyra style graph editing
-- Selectable sample rate (48khz,96khz)
+- Selectable sample rate (48khz,96khz), currently fixed at 44.1khz
    
 Current Parts are:
 
