@@ -28,8 +28,11 @@ Current Status:
 - VU Meters - usb in,line in and audio out working
 - LVGL TileView for separate FX UIs, scrolls with encoder
   
-Code style is "wildcat frenzy" - so it's currently a complete mess :) - early days until everything falls into place and refactoring to a neat and tidy system. So this is currently pre-alpha - lets get the hardware connected and working stage.
-Code is un-optimized, but Teensy 4.1 is a beastly MCU!, even at the default 600mhz Reverse-O-Tron at max uses 90 delay taps and 18 Allpass filters - and only takes around 17% APU - completely unoptimized.
+Code style is "wildcat frenzy" - so it's currently a complete mess :) - early days until everything falls into place and refactoring to a neat and tidy system. 
+
+So this is currently **pre-alpha** - lets get the hardware connected and working stage.
+
+Code is un-optimized, but Teensy 4.1 is a beastly MCU!, even at the default 600mhz Reverse-O-Tron at max uses 90 delay taps and 18 Allpass filters - and takes around 17% APU - completely unoptimized.
 
 FX/Features Planned:
 
