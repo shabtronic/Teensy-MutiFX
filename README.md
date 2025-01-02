@@ -15,7 +15,7 @@ Libs Planned:
 Current Status:
 
 - SD card - working and reading.
-- Screen Working, spi running at 70mhz = around 50fps full screen updates
+- Screen Working, spi running at 110mhz = around 79fps full screen updates (110,000,000)/(320x240x18) (9spi bits per byte)
 - Screen Cap Touch working
 - LVGL rendering
 - One FX running and usable (Reverse-O-Tron)
