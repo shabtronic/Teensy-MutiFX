@@ -36,6 +36,7 @@ Code is un-optimized, but Teensy 4.1 is a beastly MCU!, even at the default 600m
 
 FX/Features Planned:
 
+- BiQuad EQ - from my guthub
 - FFT Reverb - from my github
 - Riser Reverb - from my github
 - LPC monophonic Pitch Shifter/Harmonizer with per note mapping and FX routing.
