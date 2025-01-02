@@ -77,7 +77,9 @@ Total Parts cost circa 2024: £112
   The teensy platform has been a real dream to code so far - almost everything worked out of the box (USB Audio, SDIO Card, Encoders, Audio Plumbing), even on the Ardinuo platform all this stuff just worked. The Hardware side has been the tricky part - trying to get a stable board with zero mechanical engineering skills, zero soldering skills and little Patience has been frustrating. Getting a small form factor/footprint with parts from yestayear has been really challenging.
   
   There's only one issue with the Teensy that I've hit so far - and it's not too big a thing and that's the ADC noise - it doesn't have a separate 3.3v ref, it uses the 3.3v power for that - so it's as noisy as your power supply (usb) and soldering skills (very poor :) ) - to the point that I use 8 bit resolution and long ADC sample read times to make it usable.
-  
+
+Info on the Teensy ADC grounding stuff: https://forum.pjrc.com/index.php?threads/teensy-4-1-agnd-retired.65599/
+
 # CNC Aluminium case
 
 Cost £20
