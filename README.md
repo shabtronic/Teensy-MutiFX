@@ -36,9 +36,9 @@ Code is un-optimized, but Teensy 4.1 is a beastly MCU!, even at the default 600m
 
 FX/Features Planned:
 
-- BiQuad EQ - from my guthub
-- FFT Reverb - from my github
-- Riser Reverb - from my github
+- BiQuad EQ - from my github https://github.com/shabtronic/Audio-Filters
+- FFT Reverb - from my github https://github.com/shabtronic/FFT-Reverb
+- Riser Reverb - from my github https://github.com/shabtronic/FDN-Reverb-Riser
 - LPC monophonic Pitch Shifter/Harmonizer with per note mapping and FX routing.
 - Poly ring buffer Pitchshifter
 - Loop Recorder/Multitracker
