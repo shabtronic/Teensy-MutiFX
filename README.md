@@ -54,7 +54,8 @@ Far off in the future may never happen blue sky optimism ideas:
 
 - Flexible Parallel FX routing
 - Jeskola Buzz/Kyma Capabyra style graph editing
-  
+- Selectable sample rate (48khz,96khz)
+   
 Current Parts are:
 
 - Teensy 4.1 £34
